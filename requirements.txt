@@ -1,1 +1,2 @@
 PySide6==6.6.2
+PyInstaller==6.11.0
